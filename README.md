@@ -12,8 +12,22 @@ This is an Android application developed as part of the Mobile App Development a
 ## Screenshots of how it looks:
 1. login:
 <img width="206" alt="image" src="https://github.com/user-attachments/assets/602d7614-ce3c-4130-b011-7b005c8524dd" />
+
+
+
+
+
 2. Dashboard, entites comming from api:
 <img width="207" alt="image" src="https://github.com/user-attachments/assets/1ee51b43-4f34-4d57-9cfc-6bfc239dfcaf" />
+
+
+
+
+
+
+
+
+
 3. Details for the entity:
 <img width="209" alt="image" src="https://github.com/user-attachments/assets/47e401e4-0072-4ee7-987c-31cdd5419824" />
 
